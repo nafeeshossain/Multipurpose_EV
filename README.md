@@ -4,7 +4,10 @@ A smart **multi-utility electric vehicle (EV)** designed to solve rural challeng
 
 ## 🏆 Achievements  
 
-![Achievements](Achievements/achievements.gif)
+<p align="center">
+  <img src="Achievements/ezgif.com-optimize.gif" width="500"/>
+</p>
+
 
 
 ## 🚀 Project Overview  

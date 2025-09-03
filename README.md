@@ -2,6 +2,12 @@
 
 A smart **multi-utility electric vehicle (EV)** designed to solve rural challenges like **irrigation, transportation, and education**, integrated with **solar-powered Vehicle-to-Vehicle (V2V) charging**, **wired & wireless charging stations**, and **software-driven energy management systems**.  
 
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="Achievements/achievements.gif" width="500"/>
+</p>
+
 ## 🚀 Project Overview  
 This project combines **hardware innovation** with **software engineering** to create a sustainable solution for rural mobility.  
 - Phase 1: Developed prototype with **₹3 lakh institutional funding**.  

@@ -4,9 +4,8 @@ A smart **multi-utility electric vehicle (EV)** designed to solve rural challeng
 
 ## 🏆 Achievements  
 
-<p align="center">
-  <img src="Achievements/achievements.gif" width="500"/>
-</p>
+![Achievements](Achievements/achievements.gif)
+
 
 ## 🚀 Project Overview  
 This project combines **hardware innovation** with **software engineering** to create a sustainable solution for rural mobility.  
